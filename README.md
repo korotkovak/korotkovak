@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ## About
 
 iOS developer with 2+ years of commercial experience. I have experience working in a team of up to 6 people. Have utilized SCRUM methodology on projects. Actively participated in daily standups, planning process and retrospectives.
@@ -20,6 +20,7 @@ iOS developer with 2+ years of commercial experience. I have experience working 
 I develop applications on SwiftUI and UIKit, following the SOLID principle. I pay special attention to unit testing. I am constantly learning new technologies, watching WWDC and trying to apply best practices in app development.
 
 Before iOS development I was involved in design, I can help to think through UX or draw UI.
+-->
 
 ## Contacts
 
